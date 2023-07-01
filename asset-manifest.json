@@ -1,14 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6de32df.css",
-    "main.js": "/static/js/main.b2da29eb.js",
+    "main.css": "/static/css/main.ce361383.css",
+    "main.js": "/static/js/main.096bf316.js",
     "static/js/787.5f67162c.chunk.js": "/static/js/787.5f67162c.chunk.js",
-    "static/media/b5.webp": "/static/media/b5.26bd089e5a9260e6db85.webp",
-    "static/media/b4.webp": "/static/media/b4.e9d568bc76666204e46d.webp",
+    "static/media/backgroundVideo.mp4": "/static/media/backgroundVideo.9fdf3cc8354955ee7103.mp4",
     "static/media/imageEnhancementAfter.jpeg": "/static/media/imageEnhancementAfter.4c3c0eb9d345eb5cf37e.jpeg",
     "static/media/imageEnhancementBefore.jpeg": "/static/media/imageEnhancementBefore.dca7b029ee6532466a36.jpeg",
-    "static/media/b1.webp": "/static/media/b1.435cd3caaf3c648cd328.webp",
-    "static/media/b2.webp": "/static/media/b2.653fb8c45f090016da8f.webp",
     "static/media/productBefore.jpg": "/static/media/productBefore.4830c9abf2774bd1e973.jpg",
     "static/media/Migra-Extralight.ttf": "/static/media/Migra-Extralight.dbd60d54988bdfdee09f.ttf",
     "static/media/productAfter.jpg": "/static/media/productAfter.957ec5a993f8d6746167.jpg",
@@ -27,7 +24,11 @@
     "static/media/5.png": "/static/media/5.81731e29b9c2974a37ae.png",
     "static/media/8.png": "/static/media/8.828226223697af609167.png",
     "static/media/9.png": "/static/media/9.828226223697af609167.png",
+    "static/media/3.webp": "/static/media/3.63848773d07bb408a073.webp",
     "static/media/10.png": "/static/media/10.050b26d0534fcbdf255b.png",
+    "static/media/2.webp": "/static/media/2.9c76735279fea3dda221.webp",
+    "static/media/1.webp": "/static/media/1.09d2aec1cde810bf968e.webp",
+    "static/media/4.webp": "/static/media/4.1ca83aa506256d3bae11.webp",
     "static/media/1.png": "/static/media/1.b5d96c6632205aafaa56.png",
     "static/media/b3.webp": "/static/media/b3.b08c9d9d6a4b1b5d6151.webp",
     "static/media/6.png": "/static/media/6.e29a4822d73f48e0982b.png",
@@ -35,6 +36,7 @@
     "static/media/2.png": "/static/media/2.652ef67e2b095883ae78.png",
     "static/media/3.png": "/static/media/3.652ef67e2b095883ae78.png",
     "static/media/insta.svg": "/static/media/insta.c83e628eea4e83e0d2b6c8e54910510c.svg",
+    "static/media/5.webp": "/static/media/5.577a0acb64a9230b1431.webp",
     "static/media/phone.svg": "/static/media/phone.0021c9fb0a01fd98e9a6fef85c191ea6.svg",
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
@@ -42,12 +44,12 @@
     "static/media/linkedin.svg": "/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "static/media/location.svg": "/static/media/location.0ac05369b96b40d5988b8db0f1d93fcb.svg",
     "static/media/facebook.svg": "/static/media/facebook.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
-    "main.a6de32df.css.map": "/static/css/main.a6de32df.css.map",
-    "main.b2da29eb.js.map": "/static/js/main.b2da29eb.js.map",
+    "main.ce361383.css.map": "/static/css/main.ce361383.css.map",
+    "main.096bf316.js.map": "/static/js/main.096bf316.js.map",
     "787.5f67162c.chunk.js.map": "/static/js/787.5f67162c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6de32df.css",
-    "static/js/main.b2da29eb.js"
+    "static/css/main.ce361383.css",
+    "static/js/main.096bf316.js"
   ]
 }
